@@ -1,1 +1,1 @@
-## React Project Starter APP
+## React Project APP
